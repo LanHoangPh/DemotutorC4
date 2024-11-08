@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemotutorC4", "DemotutorC4\DemotutorC4.csproj", "{B44E922D-E7D0-4C74-83F3-285E429E305A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_tutor", "DAL_tutor\DAL_tutor.csproj", "{338CBDC9-71F4-4A0E-97C2-8BAF4E167965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B44E922D-E7D0-4C74-83F3-285E429E305A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44E922D-E7D0-4C74-83F3-285E429E305A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44E922D-E7D0-4C74-83F3-285E429E305A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44E922D-E7D0-4C74-83F3-285E429E305A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338CBDC9-71F4-4A0E-97C2-8BAF4E167965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338CBDC9-71F4-4A0E-97C2-8BAF4E167965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338CBDC9-71F4-4A0E-97C2-8BAF4E167965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338CBDC9-71F4-4A0E-97C2-8BAF4E167965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {189B6313-EBB6-4AC9-88D3-23A30E8E146B}
+	EndGlobalSection
+EndGlobal
